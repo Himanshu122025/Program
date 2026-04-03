@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main ()
 {
-    int 
+    int a ;
+    printf("Program of Calculator.");
+     
 }
